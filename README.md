@@ -1,37 +1,15 @@
-# Product Management System (Assignment)
-
-This is a simple program built to track products and save report data. 
-
-## 📂 Project Structure
-
-This project is split into three main folders to keep the code organized:
-* **Main:** This is the starting point of the program. Run the code inside this folder to start the application.
-* **products:** This folder handles all the product information (like product names, prices, and stock counts).
-* **ReportData:** This folder saves the data and creates simple text reports of the inventory.
-
----
-
-## ✨ Features
-* **Add Products:** Save new items with a name and a price.
-* **View Inventory:** See a list of all products currently saved in the system.
-* **Save Reports:** Save your product list to a file so it doesn't disappear when you close the program.
-
----
-
-## 💻 Languages and Concepts Used
-* **Language:** [Write your language here, e.g., Python / Java / C++]
-* **Variables & Lists:** Used to store product names and numbers.
-* **Functions:** Small blocks of code used to perform specific tasks (like adding an item or calculating a total).
-* **File Handling:** Writing text into files so your data is saved on your computer.
-
----
-
-## 🚀 How to Run the Program
-
-1. **Download the code** to your computer using Git:
-   ```bash
-   git clone https://github.com
-   ```
-2. **Open the project** in your favorite code editor (like VS Code).
-3. **Navigate to the Main folder** and run the main code file.
-4. **Follow the on-screen instructions** to add products and print reports!
+#Bright Future Technologies ApplicationThis is a simple, easy-to-use Java program made for Bright Future Technologies. It is built to help a business store information about its items (products) and automatically create reports.
+# What is This Program For?
+In many small businesses, workers have to write down items, stock numbers, and sales by hand in a paper notebook or a messy spreadsheet. This causes a lot of mistakes, takes too much time, and makes it hard to know what is actually left in stock.
+This application replaces that old paper tracking system with a clean, digital system. It helps the business move away from manual work and makes managing products fast and accurate.
+ Main Benefits:
+ By using this program instead of paper or manual tracking, you solve these major business problems
+ No More Written Mistakes: Writing things down by hand leads to messy handwriting, forgotten entries, and mismatched numbers. This program forces every item to be typed in the exact same clear format, stopping errors before they happen.
+ Saves Hours of Time: Instead of counting stock by hand and doing math on a calculator at the end of the day, you type the data once, and the program does the hard work for you.
+ Instant, Perfect Reports: The program builds business reports automatically. Because a computer does the math, your reports will have zero calculation mistakes.
+ Clear View of Your Stock: You can easily see how much stock you have left in real time. This keeps you from accidentally running out of popular items or buying too much stock that you cannot sell.
+# How the Project is Organized (Folders)The program is split into three main folders .  
+The is Main folder  The "brain" of the program. It links everything together and runs the application.
+products-The folder that handles product information (like item names and stock counts).
+ReportData-The folder that handles making and formatting the final business reports.
+Inside the Main folder, there are a few important files that run the application ,Main.java: The main doorway of the program. When you start the application, it opens this file first.Products.java & ReportData.java: These act as bridges that connect the product files and report files to the main system.🛠️ What You Need to Run ItBefore you open the project, make sure your computer has these basic tools installed:Java Development Kit (JDK): Version 8 or newer. This is what lets your computer understand and run Java code.NetBeans IDE: This is the software/code editor where you open, view, and run this project.
